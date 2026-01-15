@@ -1,3 +1,9 @@
 [submodule "BetterSprint"]
 	path = BetterSprint
 	url = https://github.com/DovydasKelecius/BetterSprint
+[submodule "BetterMovement"]
+	path = BetterMovement
+	url = https://github.com/DovydasKelecius/BetterMovement.git
+[submodule "DroppingSaplings"]
+	path = DroppingSaplings
+	url = https://github.com/DovydasKelecius/DroppingSaplings.git
